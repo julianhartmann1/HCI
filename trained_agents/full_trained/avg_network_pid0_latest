@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/benedikt/Dokumente/Uni/HCI/openspiel_saves/full_trained/avg_network_pid0"
+all_model_checkpoint_paths: "/home/benedikt/Dokumente/Uni/HCI/openspiel_saves/half_trained/avg_network_pid0"
+all_model_checkpoint_paths: "/home/benedikt/Dokumente/Uni/HCI/openspiel_saves/full_trained/avg_network_pid0"
